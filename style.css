@@ -1,0 +1,68 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.canto-d {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 80px;
+  height: auto;
+}
+.borda {
+  border: 3px solid #ffffff;
+  border-radius: 5px;
+  padding: 10px 15px;
+  background-color: #333333;
+  width: auto;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: white;
+}
+.centro {
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+}
+body {
+  background-color: #555555;
+}
+footer {
+  background-color: #333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  height: 100px;
+  margin-top: 99vh;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 0;
+  max-width: 70%;
+  line-height: 1.4;
+}
+
+footer img {
+  height: 100px;
+  width: auto;
+}
+.bord {
+  border: 2px solid white;
+  background-color: #323232;
+  padding: 300px 8px;
+  display: inline-block;
+  border-radius: 2px;
+  text-align: start;
+  font-display: initial;
+  display: inline-block;
+  vertical-align: top;
+}
